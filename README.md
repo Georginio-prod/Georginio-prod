@@ -3,8 +3,9 @@
 **Vue/Nuxt · React/Next.js · Node/TypeScript · Solidity.**
 Je construis des produits web de bout en bout — frontend, backend, base de données, déploiement — avec une ouverture sur le web3 (smart contracts, dApps).
 
-🔭 **Fondateur & lead dev** de [**WorkTogo**](https://github.com/Georginio-prod/Alo_Dowoto) — marketplace togolaise clients ↔ prestataires · **contributeur** sur [**CNC Portal**](https://github.com/globe-and-citizen/cnc-portal) (gouvernance on-chain)
-🌍 Lomé, Togo · disponible en remote · **ouvert aux opportunités full stack / web3**
+🔭 **Fondateur & lead dev** de [**WorkTogo**](https://github.com/Georginio-prod/Alo_Dowoto) — marketplace togolaise clients ↔ prestataires · **contributeur** sur [**CNC Portal**](https://github.com/globe-and-citizen/cnc-portal) (gouvernance on-chain)<br>
+🌍 Lomé, Togo · disponible en remote · **ouvert aux opportunités full stack / web3**<br>
+🏆 [![committers.top](https://user-badge.committers.top/togo/Georginio-prod.svg)](https://user-badge.committers.top/togo/Georginio-prod) — top 5 des committers publics au Togo<br>
 🔗 [Portfolio](https://georginio.w3frame.com/) · [LinkedIn](https://www.linkedin.com/in/komla-etonam-georges-eklou-68518b23b) · [Frontend Mentor](https://www.frontendmentor.io/profile/Georginio-prod)
 
 
@@ -18,7 +19,7 @@ Je construis des produits web de bout en bout — frontend, backend, base de don
 # Autres réalisations
 
 | Projet | Description | Stack | Liens |
-| ---: | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **Nova Graphik Visu** | Site vitrine + CMS d'une agence de communication visuelle, pré-rendu SEO | Vue 3 · Supabase · GSAP | [Code](https://github.com/Georginio-prod/NovaGraphik) · 🟢 [Site](https://novagraphikvisu.com/) |
 | **OrgaAfrica** | Landing page du « système d'exploitation » des restaurants en Afrique | Vue 3 · TypeScript · Tailwind 4 | [Code](https://github.com/Georginio-prod/Orag-Africa) · 🟢 [Site](https://www.orga-africa.com/) |
 | **Page365** | Micro-lectures quotidiennes : +70 000 livres Gutenberg, rappels WhatsApp | React 18 · WhatsApp Cloud API | [Code](https://github.com/Georginio-prod/micro-read-app) · 🟢 [App](https://micro-read-app.vercel.app) |
@@ -36,19 +37,9 @@ Je construis des produits web de bout en bout — frontend, backend, base de don
 
 # 📈 Stats
 
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Georginio-prod&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Georginio-prod&theme=react&hide_border=true" alt="GitHub streak" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Georginio-prod&show_icons=true&theme=react&hide_border=true"
-/>
-<br />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Georginio-prod&theme=react&hide_border=true"
-/>
-
- ---
+---
 
 *Ouvert aux opportunités full stack / web3 en remote — contactez-moi sur [LinkedIn](https://www.linkedin.com/in/komla-etonam-georges-eklou-68518b23b) ou via [georginio.w3frame.com](https://georginio.w3frame.com/).*
-
- # Committer rank
-
- [![committers.top badge](https://user-badge.committers.top/togo/Georginio-prod.svg)](https://user-badge.committers.top/togo/Georginio-prod)
